@@ -1,0 +1,4 @@
+OS=centos6.3-64
+VERSION=
+WBXENV="qa"
+COMPONENT=

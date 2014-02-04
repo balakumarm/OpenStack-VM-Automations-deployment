@@ -1,0 +1,10 @@
+environment: qa
+last_server_created: {wcb: server2, wcc: server2}
+servername_prefix: wylbdb
+svrtype: {wcb: wcbsvr, wcs: wcssvr}
+version: 0.2.10 
+openstack_keyname : dbWhitney
+keyfile_path : /root/automation/dbwhitney.pem
+conf_path : /root/automation
+package_wcb : [pp-tools-mid-1.1-262.noarch,pp-wcbsvr-app-1.0-335.noarch,pp-wcbsvr-mid-1.0-179.noarch]
+package_wcs : [pp-tools-mid-1.1-262.noarch,pp-wcssvr-app-1.0-334.noarch,pp-wcssvr-mid-1.0-180.noarch]
